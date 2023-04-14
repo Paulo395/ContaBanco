@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNN7RiI0+KhMe1C3W8TGvrL8r5IGAWO/DPL5XMcviB3L3NXasTj99Aeht9rJk1bhs1Kuw4lB5/70fZ/NJhgi2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
